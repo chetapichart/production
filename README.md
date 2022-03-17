@@ -1,4 +1,4 @@
-# Password protection for static pages
+# tsctf{b1ng0_b0ng0_b00m_b00m_fun}
 
 This simple HTML document helps you protecting static pages or whole websites with no server configuration required: you can now use Dropbox, Amazon S3 or any generic hosting service to host a private, password protected site.
 
